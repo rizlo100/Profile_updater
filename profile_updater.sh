@@ -1,5 +1,5 @@
 #!/bin/bash
-VERSION=7
+VERSION=8
 
 
 # DO NOT CHANGE ANYTHING ABOVE THIS LINE
@@ -11,9 +11,9 @@ VERSION=7
 
 #
 # This is the URL This update script for check for updates
-# Leave it as-is to keep in line with my updates, or change to your own
+# Leave it as-is to keep in line with my updates (this repo), or change to your own
 
-UPDATER_BASE_URL='http://code.theintertubes.ca'
+UPDATER_BASE_URL='https://raw.githubusercontent.com/rizlo100/Profile_updater/master/profile_updater.sh'
 
 # 
 # Files base URL
